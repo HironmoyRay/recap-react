@@ -1,7 +1,10 @@
 import "./App.css";
+import Persons from "./Components/Persons";
 
 function App() {
-  return <></>;
+  return <>
+    <Persons></Persons>
+  </>;
 }
 
 export default App;
