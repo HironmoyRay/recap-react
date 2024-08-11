@@ -3,7 +3,7 @@ export default function Person(props) {
     textAlign: "center",
     margin: "20px",
     padding: "10px 20px",
-    border: "1px solid gray",
+    border: "1px solid white",
     borderRadius: "10px",
   };
   const { person, id } = props;
