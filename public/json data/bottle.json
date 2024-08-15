@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Crystal Clear Water Bottle",
+    "image": "https://img.freepik.com/free-photo/white-reusable-water-bottle_53876-145536.jpg?t=st=1723726776~exp=1723730376~hmac=c58450e855ccc70631dcde38b091afd7c7af6f93a50414d06c0ea01ce55e59bd&w=1380",
+    "price": 12.99
+  },
+  {
+    "id": 2,
+    "name": "Eco-Friendly Glass Bottle",
+    "image": "https://img.freepik.com/free-photo/orange-juices-bottle-mock-up-blank-using-beverage-template_74952-873.jpg?w=740&t=st=1723726851~exp=1723727451~hmac=e7ee4045dd208c26479a11f17ee664ecf6680c5f1682f9273bbed461caa8998d",
+    "price": 15.49
+  },
+  {
+    "id": 3,
+    "name": "Insulated Stainless Steel Bottle",
+    "image": "https://img.freepik.com/free-psd/fully-editable-orange-juice-glass-bottle-mockup_1361-2498.jpg?w=1380&t=st=1723726870~exp=1723727470~hmac=3bdb624631d3d3472fdd84a663a0fcdd7721d8ee10d191a29ea2ca0aecefe7c2",
+    "price": 18.99
+  },
+  {
+    "id": 4,
+    "name": "Sporty Squeeze Water Bottle",
+    "image": "https://img.freepik.com/free-psd/empty-bottle-mock-up_1135-23.jpg?w=826&t=st=1723726884~exp=1723727484~hmac=77bb4ddfd57306006907c7ca6fe25d370c21f9208d09892ce2555fdd38e7098f",
+    "price": 9.99
+  },
+  {
+    "id": 5,
+    "name": "Bamboo Cap Glass Bottle",
+    "image": "https://img.freepik.com/free-vector/aluminum-bottle-illustration-sport-aluminum-water-container-with-plastic-ring-bung_33099-711.jpg?w=826&t=st=1723726901~exp=1723727501~hmac=deef4147983849a41425074744a0c785937c9161a006895f476efd3a238289d3",
+    "price": 14.89
+  }
+]

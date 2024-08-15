@@ -1,16 +1,14 @@
 import "./App.css";
-import Counter from "./Components/Counter";
-import Countries from "./Components/Countries/Countries";
-import Persons from "./Components/Persons";
-import Users from "./Components/Users";
+import Bottles from "./Components/Bottles/Bottles";
 
 function App() {
   return (
     <>
-      <Countries></Countries>
+      <Bottles></Bottles>
+      {/* <Countries></Countries>
       <Users></Users>
       <Counter></Counter>
-      <Persons></Persons>
+      <Persons></Persons> */}
     </>
   );
 }
