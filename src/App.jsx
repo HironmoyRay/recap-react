@@ -4,7 +4,10 @@ import Bottles from "./Components/Bottles/Bottles";
 function App() {
   return (
     <>
-      <Bottles></Bottles>
+      <div >
+        <Bottles></Bottles>
+      </div>
+
       {/* <Countries></Countries>
       <Users></Users>
       <Counter></Counter>
